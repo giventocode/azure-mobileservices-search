@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giventocode.AzureSearch", "Giventocode.AzureSearch\Giventocode.AzureSearch.csproj", "{A3F8CA82-F69A-4C23-84E2-482E9E27AFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giventocode.MobileServices.AzureSearch", "Giventocode.MobileServices.AzureSearch\Giventocode.MobileServices.AzureSearch.csproj", "{4CC78E2D-49CD-4B68-99EA-8536EEC6FBB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giventocode.AzureSearch.Client", "Giventocode.AzureSearch.Client\Giventocode.AzureSearch.Client.csproj", "{29D59DAB-FEF0-45DE-8E33-96D00A115CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F8CA82-F69A-4C23-84E2-482E9E27AFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F8CA82-F69A-4C23-84E2-482E9E27AFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F8CA82-F69A-4C23-84E2-482E9E27AFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F8CA82-F69A-4C23-84E2-482E9E27AFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC78E2D-49CD-4B68-99EA-8536EEC6FBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC78E2D-49CD-4B68-99EA-8536EEC6FBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC78E2D-49CD-4B68-99EA-8536EEC6FBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC78E2D-49CD-4B68-99EA-8536EEC6FBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D59DAB-FEF0-45DE-8E33-96D00A115CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D59DAB-FEF0-45DE-8E33-96D00A115CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D59DAB-FEF0-45DE-8E33-96D00A115CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D59DAB-FEF0-45DE-8E33-96D00A115CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
